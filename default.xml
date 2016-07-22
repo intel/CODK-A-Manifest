@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-	<remote fetch="git+ssh://git@github.com/01org/" name="origin"/>
+	<remote fetch="https://github.com/01org/" name="origin"/>
 	<default remote="origin" revision="master"/>
 	
 	<project name="CODK-A-Firmware" path="arduino101_firmware"/>
