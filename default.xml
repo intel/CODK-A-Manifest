@@ -8,4 +8,5 @@
 	<project name="CODK-A-Flashpack" path="arduino101_flashpack"/>
 	<project name="CODK-A-Software" path="arduino101_software"/>
 	<project name="CODK-A-Manifest" path="manifest"/>
+	<project name="corelibs-arduino101" path="arduino101_software/corelibs" revision="refs/tags/1.6.9+1.74"/>
 </manifest>
